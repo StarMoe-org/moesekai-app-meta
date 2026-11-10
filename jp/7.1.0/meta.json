@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "region": "jp",
+  "appVersion": "7.1.0",
+  "appHash": "833770f2-7169-40b3-bb69-c0d27f312156",
+  "dataVersion": "7.1.0.10",
+  "unityVersion": "2022.3.62f2",
+  "clientVersion": "7.1.0",
+  "abVersion": "7.1.0",
+  "package": {
+    "name": "com.sega.pjsekai",
+    "versionName": "7.1.0",
+    "versionCode": 300131,
+    "sha256": "414d4b29b82541428acd1d70b4db840fb886552ac390b68f9e8bae1531a6bd68",
+    "source": "local"
+  },
+  "files": {
+    "moe-info.json": "355d5588f908387ae412b8ede596f44d9ceb98db3b68bc542dc272e46c82525f"
+  },
+  "generatedAt": "2026-11-10T06:52:28Z",
+  "builder": {
+    "version": "0.1.0",
+    "il2cppDumper": "4741d46"
+  }
+}
