@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "region": "cn",
+  "appVersion": "6.4.1",
+  "appHash": "d67a688b-ff78-4300-bfc5-2120c000d75d",
+  "dataVersion": "1.0.0.0",
+  "unityVersion": "2022.3.62f3",
+  "clientVersion": "6.4.1",
+  "abVersion": "6.4.0",
+  "package": {
+    "name": "com.hermes.mk",
+    "versionName": "6.4.1",
+    "versionCode": 4647,
+    "sha256": "91659b72d2c8b258f00830285032fedd8bde702c2b6a6b839869028ecf0a033d",
+    "source": "local"
+  },
+  "files": {
+    "moe-info.json": "5adee5642fd7a98322b50e4268b446aa92bbd10cef3a2f418f3703c0c2b57e98",
+    "schema.json": "4d86dd5a482037b4078704d0dda377a5fd3be5572780175f723a3dbb47852cd6"
+  },
+  "generatedAt": "2026-11-10T07:06:13Z",
+  "builder": {
+    "version": "0.1.0",
+    "il2cppDumper": "4741d46"
+  }
+}
