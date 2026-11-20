@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "region": "en",
+  "appVersion": "6.1.5",
+  "appHash": "6509628a-73ca-468f-aed7-25454d94cf34",
+  "dataVersion": "6.1.50.0",
+  "unityVersion": "2022.3.62f2",
+  "clientVersion": "6.1.5",
+  "abVersion": "6.1.0",
+  "package": {
+    "name": "com.sega.ColorfulStage.en",
+    "versionName": "6.1.5",
+    "versionCode": 111,
+    "sha256": "54a5fe7e03c8c14a8315dd84de5923d8edaca18823c582e29e1efdf9ff7c9c30",
+    "source": "qooapp"
+  },
+  "files": {
+    "moe-info.json": "024f12c61f83fa2dc5ee2b4fba63c8eab4ae409ecc974512148261d52e0aafcd"
+  },
+  "generatedAt": "2026-11-20T06:19:20Z",
+  "builder": {
+    "version": "0.1.0",
+    "il2cppDumper": "4741d46"
+  }
+}
